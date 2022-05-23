@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charlyruiz27
 - 👀 I’m interested in IT recruiting, technical recruiting
-- 🌱 I’m currently learning about software development, product designer, project lead, javascript developer, software engineer, fullstack developer
+- 🌱 I’m currently learning about SwiftUI, iOS development, 
 - 💞️ I’m looking to collaborate on Technical Recruitment
 - 📫 How to reach me carlos.ruiz@axented.com
 
